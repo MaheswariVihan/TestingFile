@@ -13,8 +13,6 @@ public class StateDetails {
 			sd.southIndia();
 			sd.northIndia();
 			LanguageInfo li=new LanguageInfo();
-			li.tamilLanguage();
-			li.englishLanguage();
-			li.hindiLanguage();
+			
 		}
 }
